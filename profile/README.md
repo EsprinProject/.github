@@ -17,6 +17,25 @@
 | [Logos](https://github.com/EsprinProject/Logos) | 品牌资源：各仓库使用的图标源图 | PNG |
 | [.github](https://github.com/EsprinProject/.github) | 组织配置与本页 | — |
 
+## 快速安装
+
+### EsprinNemo
+[前往EsprinNemo的Releases](https://github.com/EsprinProject/Nemo/releases)
+
+### EsprinSync
+
+```bash
+git clone https://github.com/esprinproject/sync
+# or use gh-proxy
+# git clone https://gh-proxy.com/https://github.com/esprinproject/sync
+cd sync
+python sync.py
+```
+
+### EsprinNemoWeb
+
+访问[Web](https://esprinproject.github.io/Web)之后将其安装为PWA
+
 ## 组成
 
 ```mermaid
