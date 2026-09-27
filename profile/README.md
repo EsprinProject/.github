@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/EsprinProject/Logos/main/Project.png" width="96" height="96" alt="EsprinProject">
-
 # EsprinProject
 
 > Note, Nothing.
