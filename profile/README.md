@@ -1,5 +1,3 @@
-# EsprinProject
-
 > Note, Nothing.
 
 本地优先的笔记应用与配套服务。无账号体系，无云端托管：数据是用户磁盘上的 Markdown 文件，可由任意编辑器直接打开，整个数据目录复制一份即为一次完整备份。
@@ -10,7 +8,7 @@
 
 | 仓库 | 内容 | 形态 |
 | --- | --- | --- |
-| [Nemo](https://github.com/EsprinProject/Nemo) | 桌面客户端：笔记、待办、随口记（系统本机语音识别）、小本本、AI 助手、自建同步客户端、自动更新 | Electron + 原生 HTML / CSS / JavaScript，无构建步骤；产出 Windows 安装包与便携版 |
+| [Nemo](https://github.com/EsprinProject/Nemo) | 桌面客户端：笔记、待办、随口记（系统本机语音识别）、小本本、AI 助手、自建同步客户端、自动更新 | Electron + 原生 HTML / CSS / JavaScript；产出 Windows 安装包与便携版 |
 | [Sync](https://github.com/EsprinProject/Sync) | 自建同步服务端：多账户、操作日志、可复用 ID、令牌鉴权、管理后台，并托管网页版客户端 | 单个 Python 文件（仅标准库）加管理页静态文件 |
 | [Web](https://github.com/EsprinProject/Web) | 网页客户端：界面与桌面版现代布局逐条对应，可安装为 PWA | 原生 HTML / CSS / JavaScript，无构建步骤 |
 | [Page](https://github.com/EsprinProject/Page) | 官网：功能说明、界面截图与最新版本下载入口 | GitHub Pages 静态站点 |
@@ -20,7 +18,10 @@
 ## 快速安装
 
 ### EsprinNemo
-[前往EsprinNemo的Releases](https://github.com/EsprinProject/Nemo/releases)
+
+<a href="https://github.com/EsprinProject/Nemo/releases">
+  <img src="https://img.shields.io/badge/Download-EsprinNemo-blue?style=for-the-badge" alt="Button">
+</a>
 
 ### EsprinSync
 
